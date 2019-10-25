@@ -10,6 +10,7 @@ namespace Question3
         {
             Console.WriteLine("HELLO!");
             Console.WriteLine("Second commit!!");
+            Console.WriteLine("Third commit!!");
         }
     }
 }
