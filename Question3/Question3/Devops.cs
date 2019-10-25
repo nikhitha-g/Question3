@@ -9,6 +9,7 @@ namespace Question3
         Devops()
         {
             Console.WriteLine("HELLO!");
+            Console.WriteLine("Second commit!!");
         }
     }
 }
